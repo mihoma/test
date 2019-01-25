@@ -1,4 +1,4 @@
-<?php
+ssssssss<?php
 if (!empty($post->post_password)) {
 	if ($_COOKIE['wp-postpass_' . COOKIEHASH] != $post->post_password) return;
 }
